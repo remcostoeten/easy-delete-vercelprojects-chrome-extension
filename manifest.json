@@ -3,6 +3,8 @@
   "name": "Vercel Project Deletion Helper",
   "version": "1.0.0",
   "description": "Auto-fills confirmation fields for Vercel project deletion",
+  "author": "Remco Stoeten",
+  "homepage_url": "https://github.com/remcostoeten/easy-delete-vercelprojects-chrome-extension",
   "icons": {
     "16": "icons/icon16.png",
     "32": "icons/icon32.png",

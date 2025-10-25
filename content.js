@@ -1,3 +1,9 @@
+/**
+ * Vercel Project Deletion Helper - Content Script
+ * Created by Remco Stoeten
+ * GitHub: https://github.com/remcostoeten/easy-delete-vercelprojects-chrome-extension
+ */
+
 function extractProjectName() {
   const path = window.location.pathname;
   const match = path.match(/\/([^/]+)-projects\/([^/]+)\/settings/);

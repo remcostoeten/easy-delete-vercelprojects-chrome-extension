@@ -1,6 +1,8 @@
 # Vercel Project Deletion Helper
 
-**Easy Vercel project deletion Chrome extension by Remco Stoeten**
+**Easy Vercel project deletion Chrome extension**
+
+Created by [**Remco Stoeten**](https://github.com/remcostoeten)
 
 ![Demo](demo.gif)
 
@@ -33,3 +35,19 @@ where Brave is my browser but I assume it's just chrome for chrome. Anyways, it'
 Once you're there toggle the switch which says `Developer mode` top right.
 
 Then you're ready to upload it. Click on `Load unpacked` top left. Search for your cloned repo, load that. And that's it, ready to use.
+
+---
+
+## 📜 License
+
+This project was created and is maintained by [Remco Stoeten](https://github.com/remcostoeten).
+
+## 🔗 Links
+
+- **GitHub Repository:** https://github.com/remcostoeten/easy-delete-vercelprojects-chrome-extension
+- **Author:** [Remco Stoeten](https://github.com/remcostoeten)
+- **Vercel:** https://vercel.com
+
+---
+
+*Built with ❤️ by [Remco Stoeten](https://github.com/remcostoeten)*

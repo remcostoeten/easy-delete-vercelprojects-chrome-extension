@@ -1,3 +1,9 @@
+/**
+ * Vercel Project Deletion Helper - Background Script
+ * Created by Remco Stoeten
+ * GitHub: https://github.com/remcostoeten/easy-delete-vercelprojects-chrome-extension
+ */
+
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "parentMenu",
