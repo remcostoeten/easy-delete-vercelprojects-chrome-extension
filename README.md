@@ -12,14 +12,6 @@ Install this extension to prevent having to type your username + project name an
 
 **v1.0.0**
 
-## Compatibility
-
-- Chrome (Manifest V3)
-- Brave Browser
-- Edge
-- Other Chromium-based browsers
-
-## Features
 
 ## How to use
 
@@ -42,12 +34,6 @@ Then you're ready to upload it. Click on `Load unpacked` top left. Search for yo
 
 This project was created and is maintained by [Remco Stoeten](https://github.com/remcostoeten).
 
-## 🔗 Links
+xxx,
 
-- **GitHub Repository:** https://github.com/remcostoeten/easy-delete-vercelprojects-chrome-extension
-- **Author:** [Remco Stoeten](https://github.com/remcostoeten)
-- **Vercel:** https://vercel.com
-
----
-
-*Built with ❤️ by [Remco Stoeten](https://github.com/remcostoeten)*
+love yall
