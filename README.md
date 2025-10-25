@@ -1,17 +1,8 @@
-# Vercel Project Deletion Helper
-
-**Easy Vercel project deletion Chrome extension**
-
-Created by [**Remco Stoeten**](https://github.com/remcostoeten)
+### **Easy Vercel project deletion Chrome extension**
 
 ![Demo](demo.gif)
 
 Install this extension to prevent having to type your username + project name and another "delete my..." phrase. Just instantly delete.
-
-## Version
-
-**v1.0.0**
-
 
 ## How to use
 
@@ -30,10 +21,7 @@ Then you're ready to upload it. Click on `Load unpacked` top left. Search for yo
 
 ---
 
-## 📜 License
-
-This project was created and is maintained by [Remco Stoeten](https://github.com/remcostoeten).
-
 xxx,
 
 love yall
+remco Stoeten
